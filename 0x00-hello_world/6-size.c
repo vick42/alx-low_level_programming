@@ -1,4 +1,4 @@
-ude <stdio.h>
+use <stdio.h>
 
 /**
  * main - prints the size of various types
