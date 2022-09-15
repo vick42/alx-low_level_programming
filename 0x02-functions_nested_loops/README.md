@@ -1,1 +1,1 @@
-Practice on functions and nested loops.
+Study on functions and nested loops.
