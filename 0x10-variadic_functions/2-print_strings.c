@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdarg.H>
+#include <stdarg.h>
 #include <stdlib.h>
 /**
  * print_strings - prints strings followed by a new line.
@@ -17,7 +17,7 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	if (separator == NULL)
 		separator = "";
 
-	v_start(strings, n);
+	va_start(strings, n);
 
 	for (i = 0; i < n; i++)
 	{
